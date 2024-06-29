@@ -41,12 +41,7 @@ cargo install cargo-watch
 
 ## Building and running
 
-1. First, clone the project:
-
-```shell
-git clone https://github.com/{{project-vendor}}/{{project-name}}.git
-cd {{project-name}}
-```
+1. First, clone this project repository and enter the project root directory.
 
 2. Then, build the project with `cargo-make`:
 
