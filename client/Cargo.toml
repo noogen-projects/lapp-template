@@ -1,0 +1,9 @@
+[package]
+name = "{{crate_name}}_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+leptos = { version = "0.6", features = ["csr"] }
+console_error_panic_hook = "0.1"
+gloo-net = "0.5"

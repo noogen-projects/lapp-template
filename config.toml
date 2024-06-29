@@ -1,0 +1,11 @@
+[application]
+title = "{{project-name}}"
+enabled = true
+autoload = true
+description = "{{project-description}}"
+tags = []
+access_token = ""
+
+[permissions]
+required = ["client_http"]
+allowed = ["client_http"]
