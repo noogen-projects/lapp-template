@@ -1,2 +1,2 @@
 [placeholders]
-project-description = { prompt = "Enter project description", type = "string" }
+project-description = { prompt = "Project description", type = "string" }
